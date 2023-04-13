@@ -1,0 +1,11 @@
+Kripa="I am a girl"
+print(Kripa.upper())
+print(Kripa.lower())
+print(Kripa.capitalize())
+print(Kripa.title())
+print(Kripa.strip())
+print(Kripa.split())
+print(Kripa.replace("I am a girl", "I am an angel"))
+print(Kripa.find("a"))
+print(Kripa.startswith("a"))
+print(Kripa.endswith("l"))
